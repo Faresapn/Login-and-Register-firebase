@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "609078996810",
+    "firebase_url": "https://login-d1154.firebaseio.com",
+    "project_id": "login-d1154",
+    "storage_bucket": "login-d1154.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609078996810:android:c4dd40c72433af5322dbb3",
+        "android_client_info": {
+          "package_name": "com.faresa.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609078996810-4mqoqg15dabhgfe0k94j78hv6efgadvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.faresa.loginfirebase",
+            "certificate_hash": "2c5b4ec8661c10457e47541d6e8d4fd879366916"
+          }
+        },
+        {
+          "client_id": "609078996810-ft2fsuf7682q9r14vcc5qep0qgqj0khf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq9197vJT1CnzsFUFlAUzNusmpJ_lYzeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609078996810-ft2fsuf7682q9r14vcc5qep0qgqj0khf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
